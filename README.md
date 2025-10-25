@@ -1,8 +1,10 @@
 # Muiku
 LLM-based haiku generator for Gnome 
 
-<img style="align:center;" width="752" height="460" alt="immagine" src="https://github.com/user-attachments/assets/c46efb9f-58db-4eda-9ab2-fecdded4d058" />
-
+<p align="center">
+<img width="752" height="460" alt="immagine" src="https://github.com/user-attachments/assets/c46efb9f-58db-4eda-9ab2-fecdded4d058" />
+<p/>
+	
 # TUIku deploys an AI agent to consume verses from Llama 3.1 hosted as local model
 
 The TUIku application adopts Langchain pointing it to Llama 3.1 running locally. In my case, Llama 3.1 is hosted on a ProxMox LXC container called Beskar, phisical host name is Mandalore, running on MyAss, a 4 machines cluster (My Assigned Server Space, hence MyAss).
