@@ -1,7 +1,7 @@
 # Muiku
 LLM-based haiku generator for Gnome 
 
-<img width="752" height="460" alt="immagine" src="https://github.com/user-attachments/assets/c46efb9f-58db-4eda-9ab2-fecdded4d058" />
+<img align="center" width="752" height="460" alt="immagine" src="https://github.com/user-attachments/assets/c46efb9f-58db-4eda-9ab2-fecdded4d058" />
 
 # TUIku deploys an AI agent to consume verses from Llama 3.1 hosted as local model
 
