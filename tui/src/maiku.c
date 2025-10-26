@@ -12,7 +12,7 @@
  * sudo dnf install -y ncurses-devel
  * 
  * Compile with:
- * gcc -std=c23 -o tuiku tuiku.c -lncurses
+ * gcc -std=c23 -o muiku muiku.c -lncurses
  */
 
 #include <ncurses.h>
@@ -33,21 +33,21 @@ static const Haiku haikus[] = {
         .line1 = "An ancient pond",
         .line2 = "A frog jumps in",
         .line3 = "The sound of water",
-        .author = "— Matsuo Bashō"
+        .author = "- Matsuo Bash"
     },
     {
         .title = "First Autumn Morning",
         .line1 = "First autumn morning",
         .line2 = "The mirror I stare into",
         .line3 = "Shows my father's face",
-        .author = "— Murakami Kijo"
+        .author = "- Murakami Kijo"
     },
     {
         .title = "Terminal Love",
         .line1 = "Cursor blinking slow",
         .line2 = "Segfault in my heart malloc",
         .line3 = "Free() cannot help",
-        .author = "— Anonymous Hacker"
+        .author = "- Anonymous Hacker"
     }
 };
 
