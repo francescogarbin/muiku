@@ -8,7 +8,11 @@
  * - Navigation: Arrow keys (UP/DOWN)
  * - Exit: 'q' key
  * 
- * Compile with: gcc -std=c23 -o tuiku tuiku.c -lncurses
+ * Prerequisite: install ncurses
+ * sudo dnf install -y ncurses-devel
+ * 
+ * Compile with:
+ * gcc -std=c23 -o tuiku tuiku.c -lncurses
  */
 
 #include <ncurses.h>
